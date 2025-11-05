@@ -1,7 +1,7 @@
 # Movie Explorer App – MAD201 Assignment 3
 
 Author:  Nithin Amin (A00194432)  
-Course: F2025 MAD201-01 Cross Platform Mobile Apps
+## Course: F2025 MAD201-01 Cross Platform Mobile Apps
 
 ## Features
 - Home: list of movies (`ListView.builder`, `MovieCard`)
@@ -12,7 +12,7 @@ Course: F2025 MAD201-01 Cross Platform Mobile Apps
 - BottomNavigationBar: Home / Favorites / Profile
 
 ## Run
-1. Open the folder in Android Studio or VS Code.
+1. Open the folder in Android Studio or VS Codes.
 2. Run `flutter pub get`.
 3. Start an emulator or connect a device.
 4. Press **Run**.
